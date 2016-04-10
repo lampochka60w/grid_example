@@ -6,7 +6,7 @@ Grid demo
 Init 
 ====
 
-`Database config in app/config/parameters.yml'`
+`Database config in app/config/parameters.yml'
 
 `php bin/console doctrine:database:create`
 
